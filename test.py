@@ -1,0 +1,3 @@
+ayaya = "suck"
+
+print(ayaya)
